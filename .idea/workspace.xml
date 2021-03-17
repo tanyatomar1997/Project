@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4656418-6b49-4db2-a3ec-92c799d3c436" name="Default Changelist" comment="" />
+    <list default="true" id="c4656418-6b49-4db2-a3ec-92c799d3c436" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/store_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/store_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/admin/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/admin/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/products/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/products/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/storage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/storage.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Rails.Development: depot2">
     <configuration name="Development: depot2" type="RailsRunConfigurationType" factoryName="Rails">
@@ -133,10 +143,31 @@
       <updated>1615127433712</updated>
       <workItem from="1615127465800" duration="6019000" />
       <workItem from="1615220411929" duration="599000" />
+      <workItem from="1615461085179" duration="22000" />
+      <workItem from="1615461130151" duration="1565000" />
+      <workItem from="1615525376477" duration="6909000" />
+      <workItem from="1615607656702" duration="2866000" />
+      <workItem from="1615699709868" duration="1244000" />
+      <workItem from="1615954696535" duration="5983000" />
+      <workItem from="1615968872061" duration="3008000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615550988317">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="426" y="185" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1615550988317" />
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1615714524144">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="502" y="141" width="424" height="482" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1615714524144" />
+    <state x="406" y="92" width="618" height="572" key="find.popup" timestamp="1615970990231">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="406" y="92" width="618" height="572" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1615970990231" />
   </component>
 </project>
